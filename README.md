@@ -1,2 +1,2 @@
-# english-for-designers
+# English-for-designers
 VSKK class stuff
