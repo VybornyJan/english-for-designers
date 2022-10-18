@@ -1,5 +1,5 @@
 # Alternative text
 
-! [This is where my alternative text description goes.](Screenshot 2022-10-18 at 12.00.22 PM.png)
+! [This is where my alternative text description goes.](hehe.png)
 
 **Alt text:** `This is where my alternative text description goes`
