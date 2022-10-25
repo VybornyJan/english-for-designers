@@ -1,12 +1,12 @@
 <html>
-<body style="background-color:;">
+<body style="background-color:loightblue;">
 
 
 <h1 align="center">Hi, I'm Jan Vyborny</h1>
 
-<p>🌱 I’m currently learning **how to github**</p>
+<p>🌱 I’m currently learning <b> how to github </b> </p>
 
-<p>📫 How to reach me **ijanvybornyi@gmail.com**</p>
+<p>📫 How to reach me <b> ijanvybornyi@gmail.com </b> </p>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
