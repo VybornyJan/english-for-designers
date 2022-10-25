@@ -1,3 +1,7 @@
+<html>
+<body style="background-color:powderblue;">
+
+
 <h1 align="center">Hi, I'm Jan Vyborny</h1>
 
 
@@ -33,15 +37,10 @@
 
 
 
-
-
-
-
-
-
-
-
-
 <img src="https://user-images.githubusercontent.com/116068259/196386753-2e596c0d-350d-4737-889d-021ebf3de668.jpg" 
      width="50" 
      height="50" /> Made with love
+
+     
+</body>
+</html>
