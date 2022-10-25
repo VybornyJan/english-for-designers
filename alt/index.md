@@ -2,5 +2,5 @@
 
 ![This is where my alternative text description goes.](hehe.png)
 
-**Alt text:** `This is where my alternative text description goes`
+**Alt text:** `Latter N made from old greek colums, colums are patrly destroyed. Color is in beige colors.`
 
