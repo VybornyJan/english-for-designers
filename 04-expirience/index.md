@@ -55,3 +55,8 @@ achived C1 in english
 Spšváček language school
 
 jazykovka.info
+
+
+
+
+Better looking CV here [CV (.pdf)](CV.pdf)
