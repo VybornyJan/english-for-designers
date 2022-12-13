@@ -21,3 +21,8 @@
 
 ## Extra
 [Takeaways](takeaways/index.md)
+
+
+
+<p align="center">
+<img src="https://media4.giphy.com/media/H5C8CevNMbpBqNqFjl/giphy.gif?cid=ecf05e47x3g8a6nb5zagi22rfwf3euq23qwc0ux22tiuil4o&rid=giphy.gif&ct=g" alt="a gif" style="width:200px;height:230px;">
