@@ -5,7 +5,7 @@ The way I create my texts.
 ## Voice
 
 Voice I use in my texts.
-1. I try to be myself. Put my soul in to the text.
+1. I try to be myself and put my soul in to the text.
 2. I make everithing organized and short. 
 3. I want to sound confident but not cocky
 
