@@ -9,7 +9,7 @@
  - Contact: ijanvybornyi@gmail.com
  
  ## Case Study
- - [Redesign of magazine covers] (03-content-first/case-study.md)
+ - [Redesign of magazine covers](03-content-first/case-study.md)
  
  
  ## Classwork
