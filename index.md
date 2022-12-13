@@ -22,7 +22,6 @@
  - [05: Voice & tone](03-content-first/index.md)
 
 ### Extra
-
 [Takeaways](takeaways/index.md)
 
 
