@@ -1,6 +1,6 @@
       Hi I'm Jan Výborný.
  
- Here is some info about me to help you decide if you want me or nah.
+##### Here is some info about me to help you decide if you want me or nah.
  
  ### About me
  
@@ -9,10 +9,12 @@
  - Contact: ijanvybornyi@gmail.com
  
  ### Case Study
+ 
  - [Redesign of magazine covers](03-content-first/case-study.md)
  
  
  ### Classwork
+ 
  - [01: Alternative text](01-alternative-text/index.md)
  - [02: First impression](02-first-impression/index.md)
  - [03: Content first](03-content-first/case-study.md)
@@ -20,6 +22,7 @@
  - [05: Voice & tone](03-content-first/index.md)
 
 ### Extra
+
 [Takeaways](takeaways/index.md)
 
 
