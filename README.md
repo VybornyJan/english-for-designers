@@ -4,7 +4,7 @@
  
  ## About me
  
- - My story
+ - [My story](00-about-me/index.md)
  - [Résumé](04-expirience/CV.pdf)
  - Contact: ijanvybornyi@gmail.com
  
