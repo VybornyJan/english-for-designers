@@ -52,7 +52,7 @@ vskk.cz
 
 achived C1 in english
 
-Spšváček language school
+Spěváček language school
 
 jazykovka.info
 
