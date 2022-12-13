@@ -1,4 +1,4 @@
-      Hi I'm Jan.
+      Hi I'm Jan Výborný.
  
  Here is some info about me to help you decide if you want me or nah.
  
