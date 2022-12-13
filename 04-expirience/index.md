@@ -25,7 +25,6 @@ on self growth.
 Freelance
 
 Redesign of logo, creation of
-
 propagation materials,
 prepress.
 
