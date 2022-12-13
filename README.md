@@ -13,4 +13,4 @@
  - [TIL](takeaways/index.md)
  - [Index](index.md)
  
-      ⬆️ Fast travel for lazy people ⬆️
+       ⬆️ Fast travel for lazy people ⬆️
