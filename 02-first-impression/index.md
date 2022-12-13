@@ -23,4 +23,4 @@ Predators are from USA but it was still a problem so we edited it with our own. 
 
 
 
-### text
+### Redesign of Magazines
