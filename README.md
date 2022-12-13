@@ -5,7 +5,7 @@
  ## About me
  
  - My story
- - Resume
+ - [Résumé](04-expirience/CV.pdf)
  - Contact: ijanvybornyi@gmail.com
  
  ## Case Study
