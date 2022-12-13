@@ -1,6 +1,6 @@
 # Voice & Tone
 
-An overview…
+The way I create my texts.
 
 ## Voice
 
