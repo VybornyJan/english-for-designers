@@ -18,3 +18,6 @@
  - [03: Content first](03-content-first/case-study.md)
  - [04: Expirience](04-expirience/index.md)
  - [05: Voice & tone](03-content-first/index.md)
+
+## Extra
+[Takeaways](takeaways/index.md)
