@@ -23,12 +23,15 @@ Predators are from USA but it was still a problem so we edited it with our own. 
 
 
 ### PoolBlueGate
+
+![Picture of old logo + business card design + redesingned logo.](vizitky.png)
+
 - A simple redesign of a logo for PoolBlueGate company. I designed a redesign for a business card with the new logo.
 The company enjoyed my design but decided to go with their previous logo. 
 
-! [Picture of old logo + business card design + redesingned logo.](vizitky.png)
+
 
 ### Redesign of Magazines
-! [Picture of magazine covers before.](pic-here)
+![Picture of magazine covers before.](old.png)
 
-! [Picture of magazine covers after redesign.](pic-here)
+![Picture of magazine covers after redesign.](new.png)
