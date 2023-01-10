@@ -33,5 +33,8 @@ The company enjoyed my design but decided to go with their previous logo.
 
 ### Redesign of Magazines
 ![Picture of magazine covers before.](old.png)
+- Here is old covers for magazines. A bit chaotic from my point of view.
 
 ![Picture of magazine covers after redesign.](new.png)
+- Covers of magazines after a redesign. This work was fun for me although it was a slow consulting process. After the presentation, I'm happy with the outcome and so are my professors. 
+
