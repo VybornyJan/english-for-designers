@@ -1,6 +1,6 @@
       Hi I'm Jan Výborný.
  
-##### Here is some info about me to help you decide if you want me or nah.
+##### Here is some info about me to help you decide if you would be interested in my service.
  
 ### About me
  
