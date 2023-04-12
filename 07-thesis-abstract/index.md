@@ -22,3 +22,13 @@ redesign
 visual style
 theatre, logo
 visual identity
+
+
+## UPDATE
+
+Abstract
+The bachelor thesis "Visual Style of a cultural institution" deals with the issue of the visual style of theatre. In the theoretical part, we can find a cross-section of graphic designers' work. What all he must master for skills and abilities. Even a non-designer should gain insight into this challenging job and look under the hood of logo creation and redesign. For my work, I chose to create a new visual style for the theatre. To better understand the theatre world and work on the topic. I had to research several theatres in Prague and outside Prague. I compared how their websites work, how they promote themselves on social media and what they offer to the public. In the practical part, there are individual chapters that deal with the font, colour, and typography of the new visual style of the theatre. Promotion on the website and social media is an integral part. I brought something new, interesting and unconventional to my work. That could attract more people to the theatre. Both from the audience and from companies and sponsors.
+
+- Keywords
+
+Visual identity, logo, marketing strategy, theatre, chamber theatre, promotion
