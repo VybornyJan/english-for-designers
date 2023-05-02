@@ -10,7 +10,8 @@
  - [04: Expirience](04-expirience/index.md)
  - [05: Voice & tone](5-voice-tone/index.md)
  ##
- - [TIL](takeaways/index.md)
- - [Index](index.md)
+ - [Takeaways](takeaways/index.md)
+ - [Resume](index.md)
+ - [Yearly Takeaways](year-end-review/index.md)
  
        ⬆️ Fast travel for lazy people ⬆️
