@@ -10,26 +10,26 @@ For my bachelor's thesis, I chose theatre. Here are two main factors for my deci
 
 My chosen theatre is Divadlo Bez Hranic (aka Theatre Without Borders). It's a small theatre with a capacity of 80-100 spectators. I wanted to create something without borders and shine "the spotlight" on it. 
 
-<img src="image1" alt="Divadlo Bez Hranic">
+<img src="image1.png" alt="Divadlo Bez Hranic">
 
 - ## Slide: 03
  
 The second main thought was to create unique posters. Since posters of theatre are hard to find and the only one I found needed a cleaner layout.
 
-<img src="image2" alt="Posters">
+<img src="image2.png" alt="Posters">
 
 - ## Slide: 04
  
 First I redesigned the logo which in my opinion looked too old. I used two variants one normal and the second condensed. It's cleaner and also I let go of the mask pictogram which is so much connected with the theatre.
 
-<img src="image3" alt="old logo">
-<img src="image4" alt="redesigned logos">
+<img src="image3.png" alt="old logo">
+<img src="image4.png" alt="redesigned logos">
 
 - ## Slide: 05
 
 In the posters, I was quite not sure how to portray my thought. The first idea was to create posters connected to the theatre and the actors themselves. Look at them was quite punk looking. The main thought was that posters would be used as paper for actors to write their thoughts on their scripts.
 
-<img src="image5" alt="posters for first idea">
+<img src="image5.png" alt="posters for first idea">
 
 - ## Slide: 06
 
@@ -43,13 +43,13 @@ Without Diploma: This is for young students of theatre and acting schools to be 
 Without Handicaps: For all the handicapped citizens to give them a safe space to also enjoy theatre.
 Without Home: This is for all of the foreign citizens and foreigners that are here either from their own will or because of the politic or other state. Its to give them a small taste of their own culture and language.
  D
-<img src="image6" alt="posters for main idea">
+<img src="image6.png" alt="posters for main idea">
 
 - ## Slide: 07
 
 Also, I created posters for the subway. In my opinion its the most efficient way of propagation in the mater of print adverts speaking.
 
-<img src="image7" alt="posters for subway">
+<img src="image7.png" alt="posters for subway">
 
 - ## Slide: 09
 
@@ -62,24 +62,24 @@ Theatre Without Tye: For teambuilding purposes, doing small skits is a better wa
 Theatre Without Deadline: Parties, Events, basically any company-free activities without stressing about time.
 Theatre Without Mask: Presenting a company or product without lies and nothing hiding. 
 
-<img src="image8" alt="posters for companies">
+<img src="image8.png" alt="posters for companies">
 
 - ## Slide: 10
 
 Socials are connected with the same structure and same posts to keep the viewer in the same "ecosystem". Mainly focused on the posts of plays, events and life behind the curtains.
 
-<img src="image9" alt="instagram">
-<img src="image10" alt="facebook">
+<img src="image9.png" alt="instagram">
+<img src="image10.png" alt="facebook">
 
 - ## Slide: 11
 
 For the rest of the used designs, I created tickets which should work as a bookmark or a small poster itself.
 
-<img src="image11" alt="ticket">
+<img src="image11.png" alt="ticket">
 
 Programme is created with the purpose of propagation on socials. One page of the program has cutout stripes with coloured plastic. Viewers can choose from black and white variants. Under the cutouts is a tag for theatre on socials. So it can propagate it self.
 
-<img src="image12" alt="programs">
+<img src="image12.png" alt="programs">
 
 
 Lastly, I created some merch which corresponds with the thought "without borders"
@@ -89,12 +89,12 @@ Lastly, I created some merch which corresponds with the thought "without borders
 - We have pillows: For your back or if you can't see over the large individual in front of you.
 - We also have small dink and chips: Wine can be really messy sometimes. It's good that you have our sweatpants so you won't ruin your beautiful dress. Best to pair the drink with rice crackers which come in two flavours. Cheese and Salt. Chips without crunch and without rustle.
 
-<img src="image13" alt="swetpants">
-<img src="image14" alt="slippers">
-<img src="image15" alt="socks">
-<img src="image16" alt="pillows">
-<img src="image17" alt="wine">
-<img src="image18" alt="chips">
+<img src="image13.png" alt="swetpants">
+<img src="image14.png" alt="slippers">
+<img src="image15.png" alt="socks">
+<img src="image16.png" alt="pillows">
+<img src="image17.png" alt="wine">
+<img src="image18.png" alt="chips">
 That's it. Thank you for reading.
 
 
