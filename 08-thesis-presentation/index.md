@@ -42,7 +42,7 @@ I differentiated the themes into colours for easier recognition.
 Without Diploma: This is for young students of theatre and acting schools to be able to create a name for themselves.
 Without Handicaps: For all the handicapped citizens to give them a safe space to also enjoy theatre.
 Without Home: This is for all of the foreign citizens and foreigners that are here either from their own will or because of the politic or other state. Its to give them a small taste of their own culture and language.
- D
+
 <img src="image6.png" alt="posters for main idea">
 
 - ## Slide: 07
