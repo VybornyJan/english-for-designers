@@ -1,5 +1,5 @@
 # Transcript
-Best to use with [PDF form](06-storytelling/Final/Untitled.pdf)
+Best to use with [PDF](06-storytelling/Final/Untitled.pdf)
 - ### Slide:01
 Creative thinking & Creative growth outside of the professional habitat.
 
