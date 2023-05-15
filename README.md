@@ -10,7 +10,7 @@
  - [04: Expirience](04-expirience/index.md)
  - [05: Voice & tone](5-voice-tone/index.md)
  - [06: Storytelling](06-storytelling/index.md)
- - [07: Thesuis abstract](07-thesis-abstract/index.md)
+ - [07: Thesis abstract](07-thesis-abstract/index.md)
  - [08: Thesis presentation](08-thesis-presentation/index.md)
  ##
  - [Takeaways](takeaways/index.md)
