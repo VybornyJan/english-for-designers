@@ -91,7 +91,7 @@ Lastly, I created some merch which corresponds with the thought "without borders
 - We have pillows: For your back or if you can't see over the large individual in front of you.
 - We also have small dink and chips: Wine can be really messy sometimes. It's good that you have our sweatpants so you won't ruin your beautiful dress. Best to pair the drink with rice crackers which come in two flavours. Cheese and Salt. Chips without crunch and without rustle.
 
-<img src="image13.png" alt="swetpants">
+<img src="image13.png" alt="sweatpants">
 <img src="image14.png" alt="slippers">
 <img src="image15.png" alt="socks">
 <img src="image16.png" alt="pillows">
