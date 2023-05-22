@@ -1,5 +1,7 @@
 # Thesis Presentation
 
+Best to use with [PDF](08-thesis-prezentation/prez_thes.pdf)
+
 - ## Slide: 01
 
 For my bachelor's thesis, I chose theatre. Here are two main factors for my decision. Im into acting and I loved it since my youth. The second thought is the challenge. To give you some background redesigning a theatre was one of the tasks given to us in school. I felt super demotivated and I wasn't feeling "the spark" in the work. I wanted to prove that Im able to redesign theatre on my own even tho it's a large bite.
