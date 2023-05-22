@@ -1,6 +1,6 @@
 # Thesis Presentation
 
-Best to use with [PDF](08-thesis-presentation/prez_thes.pdf)
+Best to use with [PDF](prez_thes.pdf)
 
 - ## Slide: 01
 
